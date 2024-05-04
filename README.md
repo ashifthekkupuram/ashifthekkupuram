@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Ashif Thekkupuram
+## 👨🏻‍💻 Ashif Thekkupuram
 
 **`MERN Stack Developer`**
 
