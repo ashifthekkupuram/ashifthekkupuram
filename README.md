@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ashif Thekkupuram
 
-## **`MERN Stack Developer`**
+### **`MERN Stack Developer`**
 
 I am an accomplished **MERN Stack Developer**, harnessing the unparalleled capabilities of **MongoDB** as the robust database, **React** as the dynamic frontend, and **Node.js** coupled with **Express** as the formidable backbone, to engineer transformative web solutions with unparalleled power and precision.
 
