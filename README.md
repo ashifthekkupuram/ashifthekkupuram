@@ -1,18 +1,13 @@
-### Hi there 👋
+### 👨🏻‍💻 Ashif Thekkupuram
 
 **`MERN Stack Developer`**
 
-<!--
-**ashifthekkupuram/ashifthekkupuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an accomplished **MERN Stack Developer**, harnessing the unparalleled capabilities of **MongoDB** as the robust database, **React** as the dynamic frontend, and **Node.js** coupled with **Express** as the formidable backbone, to engineer transformative web solutions with unparalleled power and precision.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashif-thekkupuram-87985818a/">
+    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+</p>
+
