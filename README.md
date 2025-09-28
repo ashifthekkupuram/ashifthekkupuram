@@ -1,8 +1,9 @@
 # 👨🏻‍💻 Ashif Thekkupuram
 
-### **`MERN Stack Developer`**
+### **`React Developer`**
 
-I am an accomplished **MERN Stack Developer**, harnessing the unparalleled capabilities of **MongoDB** as the robust database, **React** as the dynamic frontend, and **Node.js** coupled with **Express** as the formidable backbone, to engineer transformative web solutions with unparalleled power and precision.
+Experienced in building web applications using **MongoDB**, **Express.js**, **React.js**, **Node.js**, **Firebase**, and **TypeScript**. Proficient in developing APIs, creating user-friendly interfaces, and managing application state with **Redux**. Skilled in leveraging **TypeScript** for robust type safety and enhanced
+code reliability. Focused on writing clean, efficient code and deploying scalable applications.
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/ashif-hussain-c-h-87985818a/">
@@ -20,20 +21,24 @@ I am an accomplished **MERN Stack Developer**, harnessing the unparalleled capab
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 </div>
 <div style="display: inline-block;">
+  <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
 </div>
 <div style="display: inline-block;">
+   <a href="#"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+</div>
+<div style="display: inline-block;">
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
   <a href="#"><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /></a>
 </div>
 
 ## 🧗 Coding Journey
 
-My name is Ashif Hussain C H. I embarked on my coding journey with a curious mind, initially experimenting with Python to create Discord bots. Along the way, I explored Flutter but paused my journey midway. Realizing the potential in web development, I delved into the fundamentals of HTML, CSS, and JavaScript. Eager to expand my skills, I immersed myself in Django and Django Rest Framework for backend development. However, I decided to stop trying Django with React. Instead, I started learning the MERN stack to stick with one language throughout the stack. Currently, I am honing my expertise in the MERN stack, aiming to become a proficient full-stack developer with React powering my frontend, Node.js with Express driving my backend, and MongoDB as my database. Passionate about leveraging technology to solve real-world problems, I am dedicated to continuous learning and growth in the dynamic field of software development.
+My name is Ashif Hussain C H, and I embarked on my coding journey with a curious and explorative mind, initially diving into Python to craft engaging Discord bots. This early experimentation ignited my passion for programming, leading me to explore Flutter for mobile app development, though I paused that pursuit midway to explore new horizons. Recognizing the immense potential in web development, I immersed myself in mastering the fundamentals of HTML, CSS, and JavaScript, building a robust foundation for creating dynamic and responsive web applications. Eager to expand my backend expertise, I delved into Django and Django Rest Framework, developing powerful server-side solutions. However, I chose to move away from pairing Django with React to streamline my tech stack, embracing the MERN stack—React for crafting intuitive frontends, Node.js with Express for powering scalable backends, and MongoDB for efficient database management—allowing me to leverage JavaScript across the entire development process. Additionally, I’ve built projects utilizing Firebase, continuously honing my skills in its seamless backend services, including real-time databases and authentication, as well as Supabase, leveraging its free, developer-friendly storage and database solutions to create versatile, cloud-based applications. Passionate about harnessing technology to solve real-world challenges, I am dedicated to continuous learning and growth, constantly refining my expertise in the MERN stack and Firebase while exploring new tools and techniques. My goal is to become a proficient full-stack developer, delivering innovative and impactful solutions in the ever-evolving landscape of software development.
