@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ashif Thekkupuram
 
-### **`React Developer`**
+### **`Full Stack Developer`**
 
 Experienced in building web applications using **MongoDB**, **Express.js**, **React.js**, **Node.js**, **Firebase**, and **TypeScript**. Proficient in developing APIs, creating user-friendly interfaces, and managing application state with **Redux**. Skilled in leveraging **TypeScript** for robust type safety and enhanced
 code reliability. Focused on writing clean, efficient code and deploying scalable applications.
