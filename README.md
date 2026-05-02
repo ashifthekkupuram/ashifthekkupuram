@@ -2,8 +2,7 @@
 
 ### **`Full Stack Developer`**
 
-Experienced in building web applications using **MongoDB**, **Express.js**, **React.js**, **Node.js**, **Firebase**, and **TypeScript**. Proficient in developing APIs, creating user-friendly interfaces, and managing application state with **Redux**. Skilled in leveraging **TypeScript** for robust type safety and enhanced
-code reliability. Focused on writing clean, efficient code and deploying scalable applications.
+Experienced in building web applications using **MongoDB**, **PostgreSQL**, **Express.js**, **React.js**, **Node.js**, **Firebase**, and **TypeScript**. Proficient in developing APIs, creating user-friendly interfaces, and managing application state with **Redux**. Hands-on experience with relational databases using **PostgreSQL** along with ORMs like **Drizzle** and **Prisma**, as well as **MongoDB** using **Mongoose**. Skilled in leveraging **TypeScript** for robust type safety and enhanced code reliability. Focused on writing clean, efficient code and deploying scalable applications.
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/ashif-hussain-c-h-87985818a/">
