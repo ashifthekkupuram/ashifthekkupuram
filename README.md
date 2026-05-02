@@ -14,14 +14,14 @@ Experienced in building web applications using **MongoDB**, **PostgreSQL**, **Ex
 
 <div style="display: inline-block;">
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
 </div>
 <div style="display: inline-block;">
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/></a>
   <a href="#"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
@@ -41,9 +41,8 @@ Experienced in building web applications using **MongoDB**, **PostgreSQL**, **Ex
   <a href="#"><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /></a>
 </div>
 <div style="display: inline-block;">
-  <a href="#"><img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
 </div>
 
 ## 🧗 Coding Journey
